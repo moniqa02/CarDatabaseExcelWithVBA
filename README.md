@@ -1,6 +1,6 @@
 About the project
 This Excel file contains a simple database application built with VBA macros and worksheet formulas. It was created for school purposes on database design.
-This project was created for educational purposes.
+This project was created for a database design class in high school.
 
 Key features:
 - Add new vehicles via a custom VBA form
